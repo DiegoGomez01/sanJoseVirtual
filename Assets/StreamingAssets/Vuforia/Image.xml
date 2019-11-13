@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="bird2" size="200.000000 173.214279" />
+    <ImageTarget name="Mark_Arremon" size="200.000000 200.000000" />
+    <ImageTarget name="Mark_Victor_Caicedo" size="200.000000 112.482857" />
+    <ImageTarget name="Mark_Teresa_Martinez" size="200.000000 112.208504" />
+    <ImageTarget name="Mark_Rosa_Elvira" size="200.000000 112.602737" />
+    <ImageTarget name="Mark_Martha_Lucia" size="200.000000 112.602737" />
+    <ImageTarget name="Mark_La_Pelusa" size="200.000000 112.722298" />
+    <ImageTarget name="Mark_Juan_David" size="200.000000 112.722298" />
+    <ImageTarget name="Mark_Iglesia_SanJose" size="200.000000 112.653061" />
+    <ImageTarget name="Mark_Escuela_Marulanda" size="200.000000 112.414734" />
+    <ImageTarget name="Mark_Barrio_Galan" size="200.000000 112.602737" />
+    <ImageTarget name="Mark_Av_colon" size="200.000000 112.876709" />
+  </Tracking>
+</QCARConfig>
